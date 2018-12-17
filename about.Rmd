@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+
+- __Name:__ Allison
+- __Ocupation:__ PhD Candidate in Cognitive Neuroscience
+- __Hobbies:__ Crochet
+
+![](content/profile_image.JPG)

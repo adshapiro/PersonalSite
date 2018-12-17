@@ -1,0 +1,17 @@
+name: "Allisons-website"
+output_dir: "."
+navbar:
+  title:
+  left:
+    - text: "Home"
+      href: index.html
+      icon: fa-home
+    - text: "About Me"
+      href: about.html
+    - text: "CV"
+      href: CV.html
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+    css: style.css
