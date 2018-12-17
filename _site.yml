@@ -1,17 +1,16 @@
 name: "Allisons-website"
 output_dir: "."
 navbar:
-  title:
+  title: "Allison Shapiro"
   left:
     - text: "Home"
       href: index.html
-      icon: fa-home
     - text: "About Me"
       href: about.html
     - text: "CV"
       href: CV.html
 output:
   html_document:
-    theme: yeti
+    theme: flatly
     highlight: textmate
     css: style.css
