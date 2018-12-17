@@ -11,6 +11,6 @@ navbar:
       href: CV.html
 output:
   html_document:
-    theme: flatly
+    theme: journal
     highlight: textmate
     css: style.css
