@@ -5,10 +5,16 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "about me"
       href: about.html
-    - text: "CV"
+    - text: "research & CV"
       href: CV.html
+    - text: "conference posters"
+      href: posters.html
+    - text: "teaching"
+      href: teaching.html
+    - text: "design & data vis"
+      href: design.html
 output:
   html_document:
     theme: journal
